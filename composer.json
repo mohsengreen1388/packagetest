@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Printecho\\": "./src/"
+            "Printecho1\\": "./src/"
         }
     }
 }
