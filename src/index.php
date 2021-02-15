@@ -1,8 +1,8 @@
 <?php
 
-namespace Printecho1;
+namespace Heloo;
 
-class Printecho1
+class Heloo
 {
 
     public function __construct()
