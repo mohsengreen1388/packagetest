@@ -1,6 +1,6 @@
 {
-    "name": "mohsengreen1388/phppackage",
-    "description": "test",
+    "name": "mohsengreen1388/phppackagetest",
+    "description": "test1",
     "authors": [
         {
             "name": "mohsen",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Printecho1\\": "./src/"
+            "Heloo\\": "./src"
         }
     }
 }
